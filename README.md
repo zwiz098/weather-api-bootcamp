@@ -9,7 +9,7 @@
 - Checkout answer branch
 - Push to your fork
 - Issue a pull request
-- Your pull request description should contain the following:
+- Your pull request description should ntain the following:
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
